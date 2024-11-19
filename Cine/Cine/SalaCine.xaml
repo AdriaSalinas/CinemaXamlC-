@@ -1,0 +1,31 @@
+﻿<Window x:Class="Cine.SalaCine"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cine"
+        mc:Ignorable="d"
+        Title="SalaCine" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="reservarBtn" Content="Reservar" HorizontalAlignment="Left" Margin="336,381,0,0" VerticalAlignment="Top" Height="43" Width="136" Click="Reserve_Click"/>
+        <Button x:Name="SalaBtn1" Content="" Margin="127,33,575,309" RenderTransformOrigin="3.722,0.517"  Click="Button_Click_1" Background="Green"/>
+        <Button x:Name="SalaBtn2" Content="" Margin="351,33,350,309" RenderTransformOrigin="3.722,0.517"  Click="Button_Click_2" Background="Green"/>
+        <Button x:Name="SalaBtn3" Content="" Margin="575,33,126,309" RenderTransformOrigin="3.722,0.517"  Click="Button_Click_3" Background="Green"/>
+        <Button x:Name="SalaBtn4" Content="" Margin="127,150,575,193" RenderTransformOrigin="3.722,0.517" Click="Button_Click_4" Background="Green"/>
+        <Button x:Name="SalaBtn5" Content="" Margin="351,150,350,193" RenderTransformOrigin="3.722,0.517" Click="Button_Click_5" Background="Green"/>
+        <Button x:Name="SalaBtn6" Content="" Margin="575,150,126,193" RenderTransformOrigin="3.722,0.517" Click="Button_Click_6" Background="Green"/>
+        <Button x:Name="SalaBtn7" Content="" Margin="127,272,575,71" RenderTransformOrigin="3.722,0.517"  Click="Button_Click_7" Background="Green"/>
+        <Button x:Name="SalaBtn8" Content="" Margin="351,272,350,71" RenderTransformOrigin="3.722,0.517"  Click="Button_Click_8" Background="Green"/>
+        <Button x:Name="SalaBtn9" Content="" Margin="575,272,126,71" RenderTransformOrigin="3.722,0.517"  Click="Button_Click_9" Background="Green"/>
+        <Label Content="Asiento 1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="146,11,0,0"/>
+        <Label Content="Asiento 2  &#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="371,11,0,0"/>
+        <Label Content="Asiento 3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="595,11,0,0"/>
+        <Label Content="Asiento 4" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="146,125,0,0"/>
+        <Label Content="Asiento 5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="372,125,0,0"/>
+        <Label Content="Asiento 6" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="595,125,0,0"/>
+        <Label Content="Asiento 7" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="146,246,0,0"/>
+        <Label Content="Asiento 8" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="372,246,0,0"/>
+        <Label Content="Asiento 9" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="595,246,0,0"/>
+
+    </Grid>
+</Window>
