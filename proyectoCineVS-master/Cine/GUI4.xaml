@@ -1,0 +1,14 @@
+﻿<Window x:Class="Cine.GUI4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Películas Filtradas" Height="400" Width="600">
+    <Grid>
+        <!-- Tabla para mostrar las películas filtradas -->
+        <DataGrid Name="DataGridPeliculas" AutoGenerateColumns="True" 
+          VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+          SelectionMode="Single" />
+        <Button Name="ReservarButton" Content="Reservar" Width="100" Height="40"
+        VerticalAlignment="Bottom" HorizontalAlignment="Center" Click="ReservarButton_Click" />
+
+    </Grid>
+</Window>
