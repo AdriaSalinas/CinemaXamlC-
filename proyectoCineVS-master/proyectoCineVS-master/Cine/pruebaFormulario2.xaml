@@ -1,0 +1,101 @@
+﻿<Window x:Class="Cine.pruebaFormulario2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cine"
+        mc:Ignorable="d"
+        Title="pruebaFormulario2" Height="800" Width="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+        <Grid>
+            <!-- Definimos las filas principales para los GroupBox -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <!-- Primer GroupBox -->
+            <GroupBox Grid.Row="0" Margin="10">
+                <GroupBox.Header>
+                    <TextBlock Text="Información General" FontSize="18"/>
+                </GroupBox.Header>
+                <!-- Usamos Grid en lugar de StackPanel -->
+                <Grid Margin="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <!-- Título -->
+                    <TextBlock Text="Título de la película:" Grid.Row="0" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="TituloTextBox" Grid.Row="0" Grid.Column="1" Margin="5" Height="30" />
+
+                    <!-- Idioma -->
+                    <TextBlock Text="Idioma:" Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="IdiomaTextBox" Grid.Row="1" Grid.Column="1" Margin="5" Height="30" />
+
+                    <!-- Duración -->
+                    <TextBlock Text="Duración (en minutos):" Grid.Row="2" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="DuracionTextBox" Grid.Row="2" Grid.Column="1" Margin="5" Height="30" />
+
+                    <!-- Sala -->
+                    <TextBlock Text="Sala de proyección:" Grid.Row="3" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="SalaTextBox" Grid.Row="3" Grid.Column="1" Margin="5" Height="30" />
+                </Grid>
+            </GroupBox>
+
+            <!-- Segundo GroupBox -->
+            <GroupBox Grid.Row="1" Header="Horarios" Margin="10">
+                <Grid Margin="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <!-- Fecha de inicio -->
+                    <TextBlock Text="Fecha de inicio:" Grid.Row="0" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <DatePicker x:Name="FechaInicioPicker" Grid.Row="0" Grid.Column="1" Margin="5" />
+
+                    <!-- Fecha de fin -->
+                    <TextBlock Text="Fecha de fin:" Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <DatePicker x:Name="FechaFinPicker" Grid.Row="1" Grid.Column="1" Margin="5" />
+                </Grid>
+            </GroupBox>
+
+            <!-- Tercer GroupBox -->
+            <GroupBox Grid.Row="2" Header="Géneros" Margin="10">
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="68*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <ListBox x:Name="GeneroListBox" SelectionMode="Multiple" Margin="5,5,5,5">
+                        <ListBoxItem Content="Acción" />
+                        <ListBoxItem Content="Drama" />
+                        <ListBoxItem Content="Ciencia Ficción" />
+                        <ListBoxItem Content="Comedia" />
+                        <ListBoxItem Content="Aventura" />
+                    </ListBox>
+                </Grid>
+            </GroupBox>
+
+            <!-- Botones -->
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,373,0,10" Width="278">
+                <Button Content="✔ Aceptar" Width="100" Click="Button_Click" Height="45" />
+                <Button Content="✖ Cancelar" Margin="5" Width="100" Height="45" />
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>

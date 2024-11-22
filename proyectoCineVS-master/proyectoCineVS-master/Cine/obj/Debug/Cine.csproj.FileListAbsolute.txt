@@ -1,0 +1,92 @@
+C:\Users\Admin\source\repos\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Admin\source\repos\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Admin\source\repos\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine_MarkupCompile.cache
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine_MarkupCompile.lref
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine.g.resources
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Inicio.g.cs
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\Inicio.baml
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\TablasUser.g.cs
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\FormularioCambio.g.cs
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\FormularioCambio.baml
+C:\Users\Admin\source\repos\Cine\Cine\obj\Debug\TablasUser.baml
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\FormularioCambio.g.cs
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Inicio.g.cs
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\MainWindow.g.cs
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\TablasUser.g.cs
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\App.g.cs
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine_MarkupCompile.cache
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine_MarkupCompile.lref
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\FormularioCambio.baml
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Inicio.baml
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\MainWindow.baml
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\TablasUser.baml
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine.g.resources
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\alejo\Desktop\proyectos rar que funcionan (mas o menos)\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\bin\Debug\Cine.exe.config
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\bin\Debug\Cine.exe
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\bin\Debug\Cine.pdb
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\FormularioCambio.g.cs
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Inicio.g.cs
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\MainWindow.g.cs
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\TablasUser.g.cs
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\App.g.cs
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine_MarkupCompile.cache
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine_MarkupCompile.lref
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\FormularioCambio.baml
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Inicio.baml
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\MainWindow.baml
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\TablasUser.baml
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine.g.resources
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine.exe
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\Cine.pdb
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\pruebaFormulario2.g.cs
+C:\Users\alejo\Desktop\Repositorios\proyectoCineVS\Cine\obj\Debug\pruebaFormulario2.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\GUI3.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\GUI4.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\FormularioCambio.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\GUI3.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\GUI4.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\pruebaFormulario2.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\SalaCine.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\TablasUser.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine_MarkupCompile.cache
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine_MarkupCompile.lref
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.exe
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.pdb
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\bin\Debug\Cine.exe.config
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\bin\Debug\Cine.exe
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\bin\Debug\Cine.pdb
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\FormularioCambio.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\pruebaFormulario2.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\SalaCine.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\TablasUser.baml
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.g.resources
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
