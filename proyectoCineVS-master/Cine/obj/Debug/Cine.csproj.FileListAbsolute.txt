@@ -70,7 +70,6 @@ C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\De
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\GUI3.g.cs
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\GUI4.g.cs
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\MainWindow.g.cs
-C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\pruebaFormulario2.g.cs
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\SalaCine.g.cs
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\TablasUser.g.cs
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\App.g.cs
@@ -83,7 +82,6 @@ C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\bin\De
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\bin\Debug\Cine.pdb
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\FormularioCambio.baml
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\MainWindow.baml
-C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\pruebaFormulario2.baml
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\SalaCine.baml
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\TablasUser.baml
 C:\Users\Admin\Downloads\proyectoCineVS-master\proyectoCineVS-master\Cine\obj\Debug\Cine.g.resources

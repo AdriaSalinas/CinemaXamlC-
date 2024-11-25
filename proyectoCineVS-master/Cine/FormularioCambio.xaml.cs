@@ -29,11 +29,11 @@ namespace Cine
         {
             try
             {
-                // Verificar que los campos sean válidos antes de continuar
+               
                 if (!ValidarCampos())
                     return;
 
-                // Crear la película
+               
                 Pelicula peli = new Pelicula
                 {
                     Titulo = TituloTextBox.Text,
@@ -45,7 +45,7 @@ namespace Cine
                     Genero = GeneroListBox.SelectedItems.Cast<ListBoxItem>().Select(item => item.Content.ToString()).ToList()
                 };
 
-                // (Agregar a lista, base de datos, etc.)
+              
                 MessageBox.Show($"Película '{peli.Titulo}' agregada correctamente.", "Éxito", MessageBoxButton.OK, MessageBoxImage.Information);
             }
             catch (FormatException)

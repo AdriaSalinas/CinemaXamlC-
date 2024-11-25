@@ -1,20 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
-
-
-using System.Collections.Generic;
-using System.Windows;
 using GUICine2Vista.Peliculas;
 
 namespace Cine
@@ -22,24 +9,52 @@ namespace Cine
     public partial class GUI4 : Window
     {
         private List<Pelicula> Peliculas;
+        private int SalaSeleccionada; 
+
         public GUI4(List<Pelicula> peliculasFiltradas)
         {
             InitializeComponent();
-            DataGridPeliculas.ItemsSource = peliculasFiltradas; // Mostrar las películas en la tabla
+            DataGridPeliculas.ItemsSource = peliculasFiltradas; 
+            SalaSeleccionada = -1; 
         }
 
-        private void ReservarButton_Click(object sender, RoutedEventArgs e)
+        private void DataGridPeliculas_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            // Lógica para reservar la película seleccionada
-            Pelicula peliculaSeleccionada = (Pelicula)DataGridPeliculas.SelectedItem;
+            // Obtén la película seleccionada desde el DataGrid
+            var peliculaSeleccionada = DataGridPeliculas.SelectedItem as Pelicula;
 
+            // Verifica que no sea nulo antes de acceder a sus propiedades
             if (peliculaSeleccionada != null)
             {
-                MessageBox.Show($"Has reservado: {peliculaSeleccionada.Titulo}", "Reserva Exitosa");
+                SalaSeleccionada = peliculaSeleccionada.Sala; // Asignar el número de sala
+                MessageBox.Show($"Has seleccionado la película '{peliculaSeleccionada.Titulo}' de la Sala {SalaSeleccionada}");
             }
             else
             {
-                MessageBox.Show("Por favor, selecciona una película antes de continuar.", "Error");
+                SalaSeleccionada = -1; // Reinicia si no hay selección válida
+            }
+        }
+
+
+
+        private void ReservarButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (SalaSeleccionada == -1)
+            {
+                MessageBox.Show("Por favor, selecciona una película primero.", "Error");
+                return;
+            }
+
+          
+            try
+            {
+                SalaCine salaCine = new SalaCine(SalaSeleccionada);
+                MessageBox.Show($"Abriendo configuración para la Sala {SalaSeleccionada}", "Éxito");
+                salaCine.ShowDialog(); 
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al abrir la sala: {ex.Message}", "Error");
             }
         }
     }

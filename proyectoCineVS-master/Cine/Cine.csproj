@@ -65,9 +65,6 @@
       <DependentUpon>GUI4.xaml</DependentUpon>
     </Compile>
     <Compile Include="Peliculas\Pelicula.cs" />
-    <Compile Include="pruebaFormulario2.xaml.cs">
-      <DependentUpon>pruebaFormulario2.xaml</DependentUpon>
-    </Compile>
     <Compile Include="SalaCine.xaml.cs">
       <DependentUpon>SalaCine.xaml</DependentUpon>
     </Compile>
@@ -100,10 +97,6 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="pruebaFormulario2.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="SalaCine.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -138,6 +131,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Salas\Sala2.txt" />
+    <Resource Include="Salas\Sala3.txt" />
+    <Resource Include="Salas\Sala4.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

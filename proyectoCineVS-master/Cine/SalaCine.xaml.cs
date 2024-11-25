@@ -31,7 +31,7 @@ namespace Cine
             string projectDirectory = AppDomain.CurrentDomain.BaseDirectory;
             String subfolderName = "Salas";
 
-            salas = new List<string> { "", "Sala1.txt", "sala2.txt", "Sala3.txt" }; InitializeComponent();
+            salas = new List<string> { "", "Sala1.txt", "sala2.txt", "Sala3.txt","Sala4.txt"}; InitializeComponent();
             string subfolderPath = System.IO.Path.Combine(projectDirectory, @"..\..\Salas");
             string fullPath = System.IO.Path.GetFullPath(subfolderPath); // Normalizar ruta
             this.BdDpath = System.IO.Path.Combine(fullPath, salas[1]);

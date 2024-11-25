@@ -36,16 +36,6 @@ namespace Cine
             {
                 Titulo = "La Aventura Espacial",
                 Idioma = "Español",
-                Genero = new List<string> {"Aventura" },
-                Duracion = 120,
-                Sala = 1,
-                FechaInicio = new DateTime(2024, 10, 10),
-                FechaFin = new DateTime(2024, 10, 20)
-            },
-            new Pelicula()
-            {
-                Titulo = "La Aventura Espacial",
-                Idioma = "Español",
                 Genero = new List<string> { "Ciencia Ficción", "Aventura" },
                 Duracion = 120,
                 Sala = 1,
